@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pwacheck"
+version = "1.0.0"
+description = "IRA Prevailing Wage & Apprenticeship (PWA) Compliance Forensic Audit Desk per Treasury Decision 9998 & IRC 45(b)(7)(B) / 45(b)(8)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pydantic>=2.0",
+    "requests>=2.28.0",
+    "pypdf>=4.0.0",
+]
+
+[project.scripts]
+pwacheck = "pwacheck.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

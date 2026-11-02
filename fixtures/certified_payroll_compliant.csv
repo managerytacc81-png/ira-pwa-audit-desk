@@ -1,0 +1,11 @@
+worker_id,worker_name,contractor,reported_trade,actual_trade,work_date,regular_hours,overtime_hours,hourly_base_paid,hourly_fringe_paid,total_rate_paid,is_apprentice,apprentice_program_id,apprentice_period_ratio
+WKR-101,John Miller,Apex Solar EPC,Electrician,Electrician,2024-06-03,40.0,0.0,55.00,41.00,96.00,FALSE,,1.0
+WKR-102,David Vance,Apex Solar EPC,Electrician,Electrician,2024-06-03,40.0,0.0,55.00,41.00,96.00,FALSE,,1.0
+WKR-103,Marcus Bell,Apex Solar EPC,Electrician,Electrician,2024-06-03,40.0,0.0,55.00,41.00,96.00,FALSE,,1.0
+WKR-104,Robert King,Apex Solar EPC,Ironworker,Ironworker,2024-06-03,40.0,0.0,56.00,43.00,99.00,FALSE,,1.0
+WKR-105,Carlos Ortiz,Apex Solar EPC,Ironworker,Ironworker,2024-06-03,40.0,0.0,56.00,43.00,99.00,FALSE,,1.0
+WKR-106,Sam Kowalski,Apex Solar EPC,Power Equipment Operator,Power Equipment Operator,2024-06-03,40.0,0.0,56.00,38.00,94.00,FALSE,,1.0
+WKR-107,Brian Clark,Apex Solar EPC,Laborer,Laborer,2024-06-03,40.0,0.0,48.00,33.00,81.00,FALSE,,1.0
+WKR-108,James Wilson,Apex Solar EPC,Laborer,Laborer,2024-06-03,40.0,0.0,48.00,33.00,81.00,FALSE,,1.0
+WKR-109,Tommy Reed,Apex Solar EPC,Electrician,Electrician,2024-06-03,40.0,0.0,33.00,40.50,73.50,TRUE,RAP-IL-134-2023,0.60
+WKR-110,Alex Chen,Apex Solar EPC,Electrician,Electrician,2024-06-03,40.0,0.0,33.00,40.50,73.50,TRUE,RAP-IL-134-2023,0.60

@@ -1,0 +1,45 @@
+{
+  "wd_id": "IL20240008",
+  "revision": 3,
+  "state": "IL",
+  "county": "Cook",
+  "construction_type": "Heavy and Highway (Solar)",
+  "published_date": "2024-01-05",
+  "classifications": [
+    {
+      "trade": "ELECTRICIAN",
+      "basic_rate": 54.00,
+      "fringe_rate": 40.50,
+      "total_rate": 94.50,
+      "notes": "Inside Wireman"
+    },
+    {
+      "trade": "LABORER",
+      "basic_rate": 47.40,
+      "fringe_rate": 32.18,
+      "total_rate": 79.58,
+      "notes": "General / Solar Laborer"
+    },
+    {
+      "trade": "IRONWORKER",
+      "basic_rate": 55.51,
+      "fringe_rate": 42.47,
+      "total_rate": 97.98,
+      "notes": "Structural / Reinforcing"
+    },
+    {
+      "trade": "POWER EQUIPMENT OPERATOR",
+      "basic_rate": 55.80,
+      "fringe_rate": 37.60,
+      "total_rate": 93.40,
+      "notes": "Operating Engineer Class 1"
+    },
+    {
+      "trade": "CARPENTER",
+      "basic_rate": 52.00,
+      "fringe_rate": 36.00,
+      "total_rate": 88.00,
+      "notes": "Commercial Carpenter"
+    }
+  ]
+}

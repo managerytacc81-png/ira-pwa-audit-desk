@@ -1,0 +1,20 @@
+General Decision Number: IL20240008 01/05/2024
+State: Illinois
+Construction Types: Heavy and Highway
+County: Cook County in Illinois.
+
+HEAVY AND HIGHWAY CONSTRUCTION PROJECTS (including solar farm construction)
+
+Modification Number: 3
+Publication Date: 01/05/2024
+
+--------------------------------------------------
+                                  Rates          Fringes
+ELECTRICIAN.......................$ 54.00           40.50
+LABORER...........................$ 47.40           32.18
+IRONWORKER........................$ 55.51           42.47
+POWER EQUIPMENT OPERATOR..........$ 55.80           37.60
+CARPENTER.........................$ 52.00           36.00
+--------------------------------------------------
+
+WELDERS - Receive rate prescribed for craft performing operation to which welding is incidental.
